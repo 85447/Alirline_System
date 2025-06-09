@@ -1,6 +1,6 @@
 # ✈️ Airline Reservation System
 
-A Java-based full stack **Airline Reservation System** developed during my internship at **Tech Core Networking Classes** (June–July 2024). This system streamlines the process of flight booking, management, and user interaction, serving over **200+ users weekly** with enhanced speed and reliability.
+A Java-based full stack **Airline Reservation System** developed during my internship at **Tech Core Networking Classes. This system streamlines the process of flight booking, management, and user interaction, serving over **200+ users weekly** with enhanced speed and reliability.
 
 ## 🚀 Features
 
